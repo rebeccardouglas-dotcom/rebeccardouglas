@@ -19,11 +19,11 @@ I'm a passionate **Product Leader** with experience in **Human Capital Managemen
 
 ### Market and Competitive Analysis Agent
 
-**[Market and Competitive Analysis Agent]** is a **[agent focused on collecting and maintaining market and competitive intelligence for HCM companies]** built with **[Claude]**. This project demonstrates my ability to **[build agents that save time]**. 
+**Market and Competitive Analysis Agent** is a **agent focused on collecting and maintaining market and competitive intelligence for HCM companies** built with **Claude**. This project demonstrates my ability to **build agents that save time**. 
 
 ### [Executive Coach]
 
-**[Executive Coach]** is a **[app intended to provide situational coaching using synthetic persona made up of widely available public executive coaching material]** built with **[Claude]**. This project showcases my skills in **[creating an app using Claude Code]**. I will made this project available publicly soon.
+**Executive Coach** is a **app intended to provide situational coaching using synthetic persona made up of widely available public executive coaching material** built with **Claude**. This project showcases my skills in **creating an app using Claude Code**. I will made this project available publicly soon.
 
 ## Get in Touch 📬
 
